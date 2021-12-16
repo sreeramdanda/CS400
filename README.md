@@ -1,6 +1,6 @@
 # CS400
 This repository consists of a copy of all projects that were done in the class CS400 at University of Wisconsin, Madison.
-Repositories for work done in the class CS354 is marked private. For access to view contents of that repository request access from sreeramdanda@outlook.com
+Repositories for work done in other classes is marked private. For access to view contents of that repository request access from sreeramdanda@outlook.com
 
 In each directory, source files for each project can be found. Each file was written by one of 4 members in the group at the time.
 Within each directory, there are 4 readme files that highlight the files written by each member of the group.
